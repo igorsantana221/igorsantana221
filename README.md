@@ -1,4 +1,4 @@
-## Olá! Eu sou a Igor Santana, Apaixonado por tecnologia!
+## Olá! Eu sou a Igor Santana.
 
 - 🔭 Hoje trabalho com Infraestrutura.
 - 🌱 Estudando Python e Django.
