@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Igor Santana.
 
-- 🔭 Hoje trabalho com Infraestrutura.
-- 🌱 Estudando Python e Banco de dados.
+- 🔭 Hoje trabalho com C#.
+- 🌱 Estudando Angular, C#, Dotnet e Banco de dados.
 - 😄 Pronouns: ele/dele
 
 <div>
